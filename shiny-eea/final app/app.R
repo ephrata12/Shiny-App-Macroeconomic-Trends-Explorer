@@ -1,8 +1,3 @@
-## Work Distribution:
-# GDP Growth Rate Map (Aika Shorayeva)
-# GDP Indicators (Ebony Wamwitha)
-# Inflation Trends (Ephrata Getachew)
-
 library(shiny)
 library(hrbrthemes)
 library(tidyverse)
