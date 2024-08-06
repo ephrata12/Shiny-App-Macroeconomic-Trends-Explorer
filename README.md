@@ -13,7 +13,7 @@ The project aims to explore and visualize key macroeconomic indicators over time
 
 ### Shiny App:
 
-1.	*GDP Growth Visualization*:
+1.	**GDP Growth Visualization**:
    
 •	Interactive map showing GDP growth rates over time.
 
@@ -21,7 +21,7 @@ The project aims to explore and visualize key macroeconomic indicators over time
 
 •	Different levels of growth rate would be differentiated and displayed on the map using colors of different intensity.
 
-2.	*Inflation Trends Dashboard*:
+2.	**Inflation Trends Dashboard**:
    
 •	Interactive filters and selection to analyze a specific country within a given time period (2000-2022).
 
@@ -31,7 +31,7 @@ The project aims to explore and visualize key macroeconomic indicators over time
 
 •	The dashboard offers summary statistics for the selected data including mean, median, minimum and maximum inflation rates.
 
-3.	*Potential GDP Predictors*:
+3.	**Potential GDP Predictors**:
    
 •	Three line charts showing the relationship between GDP growth with 3 other variables (education, depletion of resources, labor demand) that affect GDP from 2002 - 2022.
 
