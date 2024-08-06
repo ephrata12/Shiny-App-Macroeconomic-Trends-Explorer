@@ -1,6 +1,3 @@
-
-#"GDP Growth Rate Map" by Aika, "GDP indicators" by Ebony, and "Inflation Trend by Country" by Ephrata).
-
 library(dplyr)
 library(readr)
 library(stringr)
@@ -11,8 +8,6 @@ library(tidyr)
 library(lubridate)
 library(magrittr)
 library(rvest)
-
-## GDP Growth Rate Map- Aika 
 
 # GDP growth rate data
 world_map <- maps::map("world", plot = FALSE, fill = TRUE) %>%
@@ -88,8 +83,6 @@ dev_indicators <- dev_indicators %>%
   )
 
 write_csv(dev_indicators, "data/dev_indicators_clean.csv")
-
-## Inflation Rate- Ephrata 
 
 # Load the dataset
 inflation_rate_data <- read.csv("data/inflation_rate.csv", na.strings = "..")
