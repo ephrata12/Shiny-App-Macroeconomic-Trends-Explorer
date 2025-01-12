@@ -43,9 +43,9 @@ The project aims to explore and visualize key macroeconomic indicators over time
 
 This project was a collaborative effort by the following individuals:
 
-- **Ephrata Getachew**
-- **Aika Shorayeva**  
-- **Ebony Wamwitha**
+- Ephrata Getachew
+- Aika Shorayeva
+- Ebony Wamwitha
   
 
 
