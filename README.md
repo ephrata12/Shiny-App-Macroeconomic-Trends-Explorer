@@ -1,17 +1,17 @@
 # Macroeconomic-Trends-Explorer
 
-### Purpose:
+## Purpose:
 The project aims to explore and visualize key macroeconomic indicators over time to help users understand economic trends and their impact.
 
-### Questions to address:
+## Questions to address:
 1.	How has GDP growth varied across different countries or regions over the past few decades?
 2.	What are the trends in inflation rates for various countries?
 3.	How do certain factors (e.g., education, depletion of resources, labor demand) correlate with GDP growth?
 
-### Data:
+## Data:
 •	https://databank.worldbank.org/source/world-development-indicators
 
-### Shiny App:
+## Shiny App:
 
 1.	**GDP Growth Visualization**:
    
