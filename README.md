@@ -39,3 +39,13 @@ The project aims to explore and visualize key macroeconomic indicators over time
 
 •	Display box showing interpretation of correlation (eg. strong, moderate, weak) of GDP and each variable chosen
 
+## Collaborators
+
+This project was a collaborative effort by the following individuals:
+
+- **Ephrata Getachew**
+- **Aika Shorayeva**  
+- **Ebony Wamwitha**
+  
+
+
